@@ -9,4 +9,6 @@ Hoje (17/09/2024), estudei sobre Construindo Arquiteturas no Azure.
 Aprendi como criar um grupo de recursos e como configurar o grupo , tambem um aVNET para o grupo de recursos .
 
 
-Hoje estudamos sobre computação e rede , passao a passo para a criação de maquinas virtuais, suas instancias e rede
+Hoje 19/09/2024 estudamos sobre computação e rede , passao a passo para a criação de maquinas virtuais, suas instancias e rede
+
+Serviços de Armazenamento, gerenciamento e migração de arquivos.
