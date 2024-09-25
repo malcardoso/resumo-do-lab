@@ -16,3 +16,5 @@ Serviços de Armazenamento, gerenciamento e migração de arquivos.
 24/09/2024  Introdução Prática ao Azure AI e Azure OpenAI Models
 Neste aula aprendemos como podemos aplicar a tecnologia de IA, com o Copilot Studio podemos fazer traduções de videos para diversos idiomas, entre outras aplicações.
 
+25/09/2024 - Continuando  Armazenamento Azure - Laboratorio ... Migração do azure , aprendemos na pratica como utlizar as ferramentas de migração como o azcopy,  o explorador do azure (azcopy grafico)
+Aprendemos tam,bemc mo criar contad de armazenamento e cmo planejar (projetar) a migração de dados de infraestrutura local para o azure.
