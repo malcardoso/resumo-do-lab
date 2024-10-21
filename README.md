@@ -22,4 +22,6 @@ Aprendemos tam,bemc mo criar contad de armazenamento e cmo planejar (projetar) a
 Entendendo sobre Segurança e Identidade na Azure
 09/10/2024 - 
 nete LAB aprendemos os recusos de segurança foenecidos pelo azure, como criação de usuarios, sincronizaçãos entre cloud e onprimese , politicas de acesso, regras de acesso por usuario, grupos etc; alem de entender um pouco sobre o defender for cloud, que atende azure, GCP, e AWS ... 
-
+21/10/2024  Otimizando Custos no Azure
+Aprendi como utilizar a calculadora e como estimar custos baseado nas configurações do recurso que preciso, tempo de utilização, tempo de contratação
+Como usar as tags para gerencias os custos
