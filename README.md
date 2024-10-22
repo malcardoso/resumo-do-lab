@@ -25,3 +25,6 @@ nete LAB aprendemos os recusos de segurança foenecidos pelo azure, como criaç�
 21/10/2024  Otimizando Custos no Azure
 Aprendi como utilizar a calculadora e como estimar custos baseado nas configurações do recurso que preciso, tempo de utilização, tempo de contratação
 Como usar as tags para gerencias os custos
+22/10/2024  Gerenciando Politicas em Acessos Azure
+Aprenmdemos como gerenciar politicas, governança e conformidade.
+
