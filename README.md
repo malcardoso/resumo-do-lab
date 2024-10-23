@@ -30,7 +30,7 @@ Aprenmdemos como gerenciar politicas, governança e conformidade.
 
 23/10/2024
 Ferramentas de Implantação na Azure
-Conhecimentos sobre as ferramentas de gerenciamento do azure, console de linha de comenado 
+Conhecimentos sobre as ferramentas de gerenciamento do azure, console de linha de comando 
 
 Azure ARK - gerenciamento
  
