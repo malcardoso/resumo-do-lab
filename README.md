@@ -28,3 +28,9 @@ Como usar as tags para gerencias os custos
 22/10/2024  Gerenciando Politicas em Acessos Azure
 Aprenmdemos como gerenciar politicas, governança e conformidade.
 
+23/10/2024
+Ferramentas de Implantação na Azure
+Conhecimentos sobre as ferramentas de gerenciamento do azure, console de linha de comenado 
+
+Azure ARK - gerenciamento
+ 
