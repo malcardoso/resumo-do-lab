@@ -33,4 +33,8 @@ Ferramentas de Implantação na Azure
 Conhecimentos sobre as ferramentas de gerenciamento do azure, console de linha de comando 
 
 Azure ARK - gerenciamento
+
+O Azure Monitor é uma solução de monitoramento abrangente para coletar, analisar e responder à dados de monitoramento dos ambientes de nuvem e locais. (By MS)
+A integridade ddo serviço azuire , notifica sobre incidentes , e manutenções planejadas pela MS, com isso conseguimos minimizar os impactos de paradas programadas.
+
  
